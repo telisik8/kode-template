@@ -1,37 +1,37 @@
 {
-  "name": "Telisik8.com",
-  "short_name": "Telisik8 News",
+  "name": "Telisik8News",
+  "short_name": "Telisik8News",
   "start_url": "https://www.telisik8.com/?m=1",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
   "description": "Informasi Faktual & Berimbang",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-F_xRafdkWmY/XgowbNvfCQI/AAAAAAAAAM4/GhjoR04kVpsFKgYF_LVyPY7WJkWTVv5lQCLcBGAsYHQ/s48/logoT8.png",
-    "sizes": "48x48",
+    "src": "https://1.bp.blogspot.com/-alQKoDiHxgk/XhPUrLcz5jI/AAAAAAAABpg/eTogNyrhuHA2vHPpYEWyKzit1x-RnwKQQCLcBGAsYHQ/s69/ms-icon-310x310.png",
+    "sizes": "69x69",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-F_xRafdkWmY/XgowbNvfCQI/AAAAAAAAAM4/GhjoR04kVpsFKgYF_LVyPY7WJkWTVv5lQCLcBGAsYHQ/s72/logoT8.png",
+    "src": "https://1.bp.blogspot.com/-alQKoDiHxgk/XhPUrLcz5jI/AAAAAAAABpg/eTogNyrhuHA2vHPpYEWyKzit1x-RnwKQQCLcBGAsYHQ/s72/ms-icon-310x310.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-F_xRafdkWmY/XgowbNvfCQI/AAAAAAAAAM4/GhjoR04kVpsFKgYF_LVyPY7WJkWTVv5lQCLcBGAsYHQ/s96/logoT8.png",
+    "src": "https://1.bp.blogspot.com/-alQKoDiHxgk/XhPUrLcz5jI/AAAAAAAABpg/eTogNyrhuHA2vHPpYEWyKzit1x-RnwKQQCLcBGAsYHQ/s96/ms-icon-310x310.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-F_xRafdkWmY/XgowbNvfCQI/AAAAAAAAAM4/GhjoR04kVpsFKgYF_LVyPY7WJkWTVv5lQCLcBGAsYHQ/s144/logoT8.png",
+    "src": "https://1.bp.blogspot.com/-alQKoDiHxgk/XhPUrLcz5jI/AAAAAAAABpg/eTogNyrhuHA2vHPpYEWyKzit1x-RnwKQQCLcBGAsYHQ/s144/ms-icon-310x310.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-F_xRafdkWmY/XgowbNvfCQI/AAAAAAAAAM4/GhjoR04kVpsFKgYF_LVyPY7WJkWTVv5lQCLcBGAsYHQ/s168/logoT8.png",
+    "src": "https://1.bp.blogspot.com/-alQKoDiHxgk/XhPUrLcz5jI/AAAAAAAABpg/eTogNyrhuHA2vHPpYEWyKzit1x-RnwKQQCLcBGAsYHQ/s168/ms-icon-310x310.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-F_xRafdkWmY/XgowbNvfCQI/AAAAAAAAAM4/GhjoR04kVpsFKgYF_LVyPY7WJkWTVv5lQCLcBGAsYHQ/s192/logoT8.png",
+    "src": "https://1.bp.blogspot.com/-alQKoDiHxgk/XhPUrLcz5jI/AAAAAAAABpg/eTogNyrhuHA2vHPpYEWyKzit1x-RnwKQQCLcBGAsYHQ/s192/ms-icon-310x310.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-F_xRafdkWmY/XgowbNvfCQI/AAAAAAAAAM4/GhjoR04kVpsFKgYF_LVyPY7WJkWTVv5lQCLcBGAsYHQ/s512/logoT8.png",
+    "src": "https://1.bp.blogspot.com/-alQKoDiHxgk/XhPUrLcz5jI/AAAAAAAABpg/eTogNyrhuHA2vHPpYEWyKzit1x-RnwKQQCLcBGAsYHQ/s512/ms-icon-310x310.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
